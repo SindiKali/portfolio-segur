@@ -127,7 +127,7 @@ footer {
     text-align: center;
 }
 
-.social-links a {
+.redes a {
     font-family: var(--font-header);
     font-size: 1.2rem;
     color: var(--text-color);
@@ -138,7 +138,7 @@ footer {
     transition: all 0.3s ease;
 }
 
-.social-links a:hover{
+.redes a:hover{
     background-color: var(--primary-glow);
     color: #fff;
     border-color: var(--primary-glow);
